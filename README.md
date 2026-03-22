@@ -80,6 +80,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT3']))
 ```
 
 ### OUTPUT:
+![image alt](https://github.com/SajenMurali/genai-chat-llm-gradio/blob/3ac4efd8dc8a174a4fd15c03bd9eb9e0f4cd1b0b/Screenshot%202026-03-22%20105243.png)
+![image alt](https://github.com/SajenMurali/genai-chat-llm-gradio/blob/3ac4efd8dc8a174a4fd15c03bd9eb9e0f4cd1b0b/Screenshot%202026-03-22%20105159.png)
 
 
 
